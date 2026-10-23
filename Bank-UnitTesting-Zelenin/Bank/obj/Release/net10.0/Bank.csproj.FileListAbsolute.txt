@@ -1,0 +1,14 @@
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\bin\Release\net10.0\ZeleninBank.exe
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\bin\Release\net10.0\ZeleninBank.deps.json
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\bin\Release\net10.0\ZeleninBank.runtimeconfig.json
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\bin\Release\net10.0\ZeleninBank.dll
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\bin\Release\net10.0\ZeleninBank.pdb
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\Bank.AssemblyInfoInputs.cache
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\Bank.AssemblyInfo.cs
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\ZeleninBank.dll
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\refint\ZeleninBank.dll
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\ZeleninBank.pdb
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\Bank.genruntimeconfig.cache
+C:\Users\79526\Documents\Проект по умолчанию\Bank-UnitTesting-Zelenin\Bank\obj\Release\net10.0\ref\ZeleninBank.dll
